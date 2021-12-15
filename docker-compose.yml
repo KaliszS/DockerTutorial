@@ -1,0 +1,9 @@
+version: "3"
+services:
+    frontend:
+        build:
+            context: ./frontend
+        ports:
+            - "2304:5000"
+            - "35729:35729"
+        command: npm run dev
