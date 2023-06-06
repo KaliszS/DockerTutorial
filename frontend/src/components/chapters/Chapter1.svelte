@@ -55,8 +55,7 @@
             hypervisor (hipernadzorca, np. VirtualBox) w przypadku maszyn wirtualnych,
             w przeciwieństwie do którego nie musi jednak tworzyć wirtualnych systemów
             operacyjnych. Jest to bardzo popularne rozwiązanie do konteneryzacji,
-            ale nie jedyne. Przykładem innej popularnej platformy tego typu jest
-            Kubernetes.
+            ale nie jedyne.
         </article>
         <br />
     {:else if tabs[0].active}
