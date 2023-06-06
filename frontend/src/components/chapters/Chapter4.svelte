@@ -311,7 +311,7 @@
 
             <section class="dockerfile">
                 <button on:click={() => showCube("co4")}
-                    >docker run user/calc</button
+                    >docker run --name calculator user/calc</button
                 >
             </section>
 
